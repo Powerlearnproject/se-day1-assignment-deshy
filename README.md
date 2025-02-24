@@ -55,6 +55,10 @@ iv) Acceptance Testing ensures the software meets business needs before launch.
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is the process of creating and improving input prompts to interact with AI models, like ChatGPT, in a way that produces precise, pertinent, and excellent results. It's important in that it organizes questions to direct the AI to produce the intended results. Hence maximizing AI efficiency and ensuring that interactions with models yield accurate, context-aware, and useful responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: “Write a summary of my research paper on digital health.”
+Optimized Prompt: "In 300 words, provide a summary of the research paper on digital health, including its goals, methodology, main conclusions, and suggestions for further study."
+
+The optimized prompt is more effective in that the question is more refined and structured in a way that guides the AI to generate the desired output.
