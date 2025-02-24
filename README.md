@@ -15,22 +15,41 @@ ii) object oriented programming which used agile principles pushing for iterativ
 iii) cloud computing and microservices enabling hosting of software within the cloud whereas microservices pushed for modular and scalable systems.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+i) requirement gathering and analysis where the objectives, requirements, and scope are defined.
+ii) system design where the system architecture and components are creaed based on the requirements.
+iii) implementation which is the actual development/coding phase, based on the system design specifications.
+iv) testing where verification is done to ensure development is according to the specified requirements, and that the system is ready for deployment.
+v) deployment where the software is released to a production environment and availed to users.
+vi) maintenance and support for continued checks and updates and to ensure the product remains functional.
+vii) evaluation and feedback which involves process review and feedback gathering for future improvements.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+The Waterfall process is sequential and linear, requiring that each step be finished before going on to the next, and it includes phases of requirements gathering, design, implementation, testing, deployment, and maintenance. In contrast to Agile, which is an iterative, flexible strategy that divides projects into small, manageable increments (sprints), which encourages developers and stakeholders to collaborate, be flexible, and provide ongoing feedback.
 
+An example scenerio for using the waterfal methodology would be developing an institutional system where the process is predefined and strictly regulated. 
+
+An example scenerio for using the agile methodology would be developing an elearning application that uses feedback from both the instructor and the students and every phase of the development.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+i) a software developer is responsible for designing, coding, testing, and maintaining software applications.
+ii) a quality assurance engineer ensures that the software meets quality standards by identifying bugs and verifying functionality before release.
+iii) a project manager oversees the planning, execution, and completion of software projects, ensuring they are delivered on time and within budget.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+An Integrated Development Environment (IDE) is a software application that provides developers with a suite of tools to write, test, and debug code efficiently. An example is Visual Studio code.
 
+A Version Control System (VCS) is a tool that tracks changes to code, enabling multiple developers to collaborate efficiently. It helps manage versions, revert to previous states, and resolve conflicts in team projects. an example is GitHub.
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Generally, testing is done to ensure delivery of reliable, bug-free, and high-quality software.
+i) Unit focusses on individual modules/components to catch early-stage issues.
+ii) Integration Testing focusses on the interaction between components to catch early-stage issues.
+iii) System Testing validates the complete application.
+iv) Acceptance Testing ensures the software meets business needs before launch.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
