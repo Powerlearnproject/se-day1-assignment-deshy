@@ -10,6 +10,9 @@ ii)software engineering is important in the technology industry in that it facil
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+i) structured programming where processes and development moved sequentially from one phase to the other, a case of the waterfall model.
+ii) object oriented programming which used agile principles pushing for iterative and flexible development.
+iii) cloud computing and microservices enabling hosting of software within the cloud whereas microservices pushed for modular and scalable systems.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
